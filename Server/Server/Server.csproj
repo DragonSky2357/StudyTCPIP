@@ -59,7 +59,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Source\WindowsConsole\2\Program.cs" />
+    <Compile Include="Source\2\Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

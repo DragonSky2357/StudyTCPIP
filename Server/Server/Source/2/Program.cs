@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace Server.Source.WindowsConsole._2 {
+namespace Server.Source._2 {
     class Program {
         static void Main(string[] args) {
             Socket sck = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
