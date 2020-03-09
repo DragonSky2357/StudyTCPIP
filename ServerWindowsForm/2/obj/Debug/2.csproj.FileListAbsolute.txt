@@ -6,3 +6,4 @@ C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\2\obj\Debug\_2.Prope
 C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\2\obj\Debug\2.csproj.GenerateResource.cache
 C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\2\obj\Debug\2.exe
 C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\2\obj\Debug\2.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\2\obj\Debug\_2.MainForm.resources
