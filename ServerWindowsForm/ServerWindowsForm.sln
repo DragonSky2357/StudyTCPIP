@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWindowsForm", "ServerWindowsForm\ServerWindowsForm.csproj", "{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{5CDC9087-5591-4A3E-AB38-3CED2D6D8EBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{7BA9E565-5157-482C-B336-07EDA621B073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E22ADCE7-6C27-40BF-ADB6-B54E2FD70937} = {7BA9E565-5157-482C-B336-07EDA621B073}
+		{7BA9E565-5157-482C-B336-07EDA621B073} = {5CDC9087-5591-4A3E-AB38-3CED2D6D8EBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6041AA1E-2094-46B9-939A-6BEFB7453102}
+	EndGlobalSection
+EndGlobal
