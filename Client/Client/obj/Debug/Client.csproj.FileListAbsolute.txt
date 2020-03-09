@@ -1,0 +1,12 @@
+C:\Users\qkrdy\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\qkrdy\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\qkrdy\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\qkrdy\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\qkrdy\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\bin\Debug\Client.exe.config
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\bin\Debug\Client.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\bin\Debug\Client.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\obj\Debug\Client.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Client\Client\obj\Debug\Client.pdb

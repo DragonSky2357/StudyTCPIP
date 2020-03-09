@@ -1,0 +1,16 @@
+C:\Users\qkrdy\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\qkrdy\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\qkrdy\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\qkrdy\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\qkrdy\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\qkrdy\source\repos\Server\Server\bin\Debug\System.IO.Packaging.dll
+C:\Users\qkrdy\source\repos\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\bin\Debug\Server.exe.config
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\bin\Debug\Server.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\bin\Debug\Server.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\bin\Debug\System.IO.Packaging.dll
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\obj\Debug\Server.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\Server\obj\Debug\Server.pdb
