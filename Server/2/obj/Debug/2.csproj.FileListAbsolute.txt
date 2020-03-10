@@ -1,0 +1,6 @@
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\bin\Debug\2.exe.config
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\bin\Debug\2.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\bin\Debug\2.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\obj\Debug\2.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\Server\2\obj\Debug\2.pdb

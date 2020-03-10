@@ -1,4 +1,5 @@
-﻿using System;
+﻿// 버퍼 사이즈보다 많은 양의 데이터를 받을 시(Server)
+using System;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
