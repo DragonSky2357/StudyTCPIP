@@ -1,4 +1,5 @@
-﻿using System;
+﻿// 동기 클라이언트 msdn 예제 - 윈도우 버전
+using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
