@@ -24,19 +24,19 @@
         /// </summary>
         private void InitializeComponent() {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lblServerIP = new System.Windows.Forms.Label();
-            this.txtServerIP = new System.Windows.Forms.TextBox();
-            this.lblServerPort = new System.Windows.Forms.Label();
             this.txtServerPort = new System.Windows.Forms.TextBox();
+            this.lblServerPort = new System.Windows.Forms.Label();
+            this.txtServerIP = new System.Windows.Forms.TextBox();
+            this.lblServerIP = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtMemo = new System.Windows.Forms.TextBox();
+            this.lblMemo = new System.Windows.Forms.Label();
+            this.txtGrade = new System.Windows.Forms.TextBox();
+            this.lblGrade = new System.Windows.Forms.Label();
             this.txtSubject = new System.Windows.Forms.TextBox();
             this.lblSubject = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
             this.lblName = new System.Windows.Forms.Label();
-            this.txtGrade = new System.Windows.Forms.TextBox();
-            this.lblGrade = new System.Windows.Forms.Label();
-            this.txtMemo = new System.Windows.Forms.TextBox();
-            this.lblMemo = new System.Windows.Forms.Label();
             this.btnSend = new System.Windows.Forms.Button();
             this.lblStatus = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
@@ -63,21 +63,12 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "서버 정보";
             // 
-            // lblServerIP
+            // txtServerPort
             // 
-            this.lblServerIP.AutoSize = true;
-            this.lblServerIP.Location = new System.Drawing.Point(77, 23);
-            this.lblServerIP.Name = "lblServerIP";
-            this.lblServerIP.Size = new System.Drawing.Size(56, 12);
-            this.lblServerIP.TabIndex = 1;
-            this.lblServerIP.Text = "서버 IP : ";
-            // 
-            // txtServerIP
-            // 
-            this.txtServerIP.Location = new System.Drawing.Point(139, 20);
-            this.txtServerIP.Name = "txtServerIP";
-            this.txtServerIP.Size = new System.Drawing.Size(100, 21);
-            this.txtServerIP.TabIndex = 1;
+            this.txtServerPort.Location = new System.Drawing.Point(303, 20);
+            this.txtServerPort.Name = "txtServerPort";
+            this.txtServerPort.Size = new System.Drawing.Size(100, 21);
+            this.txtServerPort.TabIndex = 2;
             // 
             // lblServerPort
             // 
@@ -88,12 +79,21 @@
             this.lblServerPort.TabIndex = 1;
             this.lblServerPort.Text = "Port : ";
             // 
-            // txtServerPort
+            // txtServerIP
             // 
-            this.txtServerPort.Location = new System.Drawing.Point(303, 20);
-            this.txtServerPort.Name = "txtServerPort";
-            this.txtServerPort.Size = new System.Drawing.Size(100, 21);
-            this.txtServerPort.TabIndex = 2;
+            this.txtServerIP.Location = new System.Drawing.Point(139, 20);
+            this.txtServerIP.Name = "txtServerIP";
+            this.txtServerIP.Size = new System.Drawing.Size(100, 21);
+            this.txtServerIP.TabIndex = 1;
+            // 
+            // lblServerIP
+            // 
+            this.lblServerIP.AutoSize = true;
+            this.lblServerIP.Location = new System.Drawing.Point(77, 23);
+            this.lblServerIP.Name = "lblServerIP";
+            this.lblServerIP.Size = new System.Drawing.Size(56, 12);
+            this.lblServerIP.TabIndex = 1;
+            this.lblServerIP.Text = "서버 IP : ";
             // 
             // groupBox2
             // 
@@ -111,6 +111,39 @@
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "전송 정보";
+            // 
+            // txtMemo
+            // 
+            this.txtMemo.Location = new System.Drawing.Point(57, 52);
+            this.txtMemo.Multiline = true;
+            this.txtMemo.Name = "txtMemo";
+            this.txtMemo.Size = new System.Drawing.Size(431, 47);
+            this.txtMemo.TabIndex = 6;
+            // 
+            // lblMemo
+            // 
+            this.lblMemo.AutoSize = true;
+            this.lblMemo.Location = new System.Drawing.Point(6, 55);
+            this.lblMemo.Name = "lblMemo";
+            this.lblMemo.Size = new System.Drawing.Size(45, 12);
+            this.lblMemo.TabIndex = 4;
+            this.lblMemo.Text = "메 모 : ";
+            // 
+            // txtGrade
+            // 
+            this.txtGrade.Location = new System.Drawing.Point(393, 25);
+            this.txtGrade.Name = "txtGrade";
+            this.txtGrade.Size = new System.Drawing.Size(95, 21);
+            this.txtGrade.TabIndex = 5;
+            // 
+            // lblGrade
+            // 
+            this.lblGrade.AutoSize = true;
+            this.lblGrade.Location = new System.Drawing.Point(342, 28);
+            this.lblGrade.Name = "lblGrade";
+            this.lblGrade.Size = new System.Drawing.Size(45, 12);
+            this.lblGrade.TabIndex = 3;
+            this.lblGrade.Text = "점 수 : ";
             // 
             // txtSubject
             // 
@@ -143,39 +176,6 @@
             this.lblName.Size = new System.Drawing.Size(45, 12);
             this.lblName.TabIndex = 1;
             this.lblName.Text = "이 름 : ";
-            // 
-            // txtGrade
-            // 
-            this.txtGrade.Location = new System.Drawing.Point(393, 25);
-            this.txtGrade.Name = "txtGrade";
-            this.txtGrade.Size = new System.Drawing.Size(95, 21);
-            this.txtGrade.TabIndex = 5;
-            // 
-            // lblGrade
-            // 
-            this.lblGrade.AutoSize = true;
-            this.lblGrade.Location = new System.Drawing.Point(342, 28);
-            this.lblGrade.Name = "lblGrade";
-            this.lblGrade.Size = new System.Drawing.Size(45, 12);
-            this.lblGrade.TabIndex = 3;
-            this.lblGrade.Text = "점 수 : ";
-            // 
-            // txtMemo
-            // 
-            this.txtMemo.Location = new System.Drawing.Point(57, 52);
-            this.txtMemo.Multiline = true;
-            this.txtMemo.Name = "txtMemo";
-            this.txtMemo.Size = new System.Drawing.Size(431, 47);
-            this.txtMemo.TabIndex = 6;
-            // 
-            // lblMemo
-            // 
-            this.lblMemo.AutoSize = true;
-            this.lblMemo.Location = new System.Drawing.Point(6, 55);
-            this.lblMemo.Name = "lblMemo";
-            this.lblMemo.Size = new System.Drawing.Size(45, 12);
-            this.lblMemo.TabIndex = 4;
-            this.lblMemo.Text = "메 모 : ";
             // 
             // btnSend
             // 

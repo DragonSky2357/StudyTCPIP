@@ -7,7 +7,7 @@
     <ProjectGuid>{8F6CFB6F-503C-48FB-9802-1800DA273886}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_8</RootNamespace>
-    <AssemblyName>_8</AssemblyName>
+    <AssemblyName>8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataPacket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,9 @@
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\9.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\_9.MainForm.resources
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\_9.Properties.Resources.resources
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\9.csproj.GenerateResource.cache
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\bin\Debug\9.exe.config
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\bin\Debug\9.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\bin\Debug\9.pdb
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\9.exe
+C:\Users\qkrdy\source\repos\TCPIP with C#\ServerWindowsForm\9\obj\Debug\9.pdb

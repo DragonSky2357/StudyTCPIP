@@ -1,4 +1,5 @@
-﻿using System;
+﻿// 구조체를 이용한 소켓통신2 - 마샬링 방법(Client)
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Net.Sockets;

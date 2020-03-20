@@ -53,7 +53,7 @@ namespace _8 {
 
                     NetworkStream stream = client.GetStream();
 
-                    stream.Write(buffer, 0, buffer.Length);
+                    stream.Write(buffer, 0, buffer.Length);  
                     Console.WriteLine("{0} data sent\n", buffer.Length);
 
                     stream.Close();
